@@ -9,5 +9,10 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
     }
 }
