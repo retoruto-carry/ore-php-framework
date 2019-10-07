@@ -8,7 +8,6 @@ $routes['/'] = function() {
 
 $routes['/phpinfo.php'] = function() {
     phpinfo();
-    exit;
 };
 
 return  $routes;
