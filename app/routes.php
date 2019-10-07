@@ -1,6 +1,7 @@
 <?php
 
 $routes = [];
+
 $routes['/'] = function() {
     echo "<!DOCTYPE html>\n";
     echo "<title>test</title>\n";
